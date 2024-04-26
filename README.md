@@ -22,3 +22,7 @@ dotnet new web -o Identity -n SimpleAuthSample.Identity
     <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.3" />
 
 ```
+
+## Password
+
+Password: `Secret@123`
